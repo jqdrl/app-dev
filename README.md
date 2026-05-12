@@ -1,7 +1,3 @@
-# app-dev
-My first repository
-
-
 ### A Minecraft Movie
 
 # ABOUT
